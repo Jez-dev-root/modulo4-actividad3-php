@@ -18,14 +18,3 @@ Para simplificar la entrega y demostrar la **funcionalidad de manera más rápid
 4. **Pirámide de Asteriscos**  
    Imprime en pantalla un patrón de asteriscos en forma de pirámide usando bucles anidados.
 
----
-
-## ⚙️ Requisitos
-- Tener instalado **XAMPP** o cualquier servidor con soporte PHP.  
-- PHP 7.4 o superior recomendado.
-
----
-
-## ▶️ Ejecución en XAMPP
-1. Copia la carpeta del proyecto dentro de `htdocs`.  
-   Ejemplo:  
